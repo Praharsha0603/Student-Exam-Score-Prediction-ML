@@ -102,6 +102,15 @@ A Gradio web application was developed to allow users to:
 * Select categorical values using dropdown menus
 * Predict exam scores instantly
 
+## Application Screenshots
+
+### Gradio Interface
+
+![Gradio App](Screenshots/ss1.png)
+
+### Prediction Result
+
+![Prediction](Screenshots/ss2.png)
 ---
 
 ## 🛠️ Tech Stack
